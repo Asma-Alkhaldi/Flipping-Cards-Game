@@ -1,0 +1,13 @@
+
+body { background:url("../img/bcg.JPG") }
+
+
+.btn.btn-primary{
+	width:45%;
+  margin-bottom:16px;
+  font-size:18px;
+  color:#FFFFFF; 
+  height:50px;
+  text-align: center;
+	
+}
